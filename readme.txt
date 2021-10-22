@@ -1,2 +1,1 @@
-
-{Lucas Bianchi}
+Lucas Bianchi
